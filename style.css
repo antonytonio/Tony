@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    margin-top: 200px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+tr, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.espaco {
+    border: none;
+}
